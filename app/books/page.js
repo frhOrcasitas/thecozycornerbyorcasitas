@@ -38,19 +38,19 @@ export default function Books() {
 
             <div className="grid md:grid-cols-3 gap-6">
                 <div className="bg-white p-4 rounded shadow">
-                    <Image src="/images/book1.jpg" alt="Book" width={300} height={400} />
+                    <Image src="/images/book1.jpg" alt="Go Fly A Kite, Charlie Brown Book" width={300} height={400} />
                 <h3 className="mt-3 font-medium">Go Fly A Kite, Charlie Brown</h3>
                 <p className="mt-1 text-xs text-gray-600">by Charles M. Schulz</p>
                 </div>
 
                 <div className="bg-white p-4 rounded shadow">
-                    <Image src="/images/book2.png" alt="Book" width={300} height={400} />
+                    <Image src="/images/book2.png" alt="Modern CSS with Tailwind Second Edition book" width={300} height={400} />
                 <h3 className="mt-3 font-medium">Modern CSS with Tailwind Second Edition</h3>
                 <p className="mt-1 text-xs text-gray-600">by Noel Rappin and Edited by Katharine Dvorak</p>
                 </div>
 
                 <div className="bg-white p-4 rounded shadow">
-                    <Image src="/images/book3.jpg" alt="Book" width={300} height={400} />
+                    <Image src="/images/book3.jpg" alt="1984 book" width={300} height={400} />
                 <h3 className="mt-3 font-medium">1984</h3>
                 <p className="mt-1 text-xs text-gray-600">by George Orwell</p>
                 </div>
